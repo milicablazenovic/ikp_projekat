@@ -1,0 +1,15 @@
+﻿  pch.cpp
+  interface.cpp
+  sock_functions.cpp
+  structures.cpp
+C:\Users\Dajana\OneDrive\Desktop\ikp FINALL\ikp-projekat\common\structures.cpp(112,11): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'SOCKET'
+C:\Users\Dajana\OneDrive\Desktop\ikp FINALL\ikp-projekat\common\structures.cpp(112,11): message : consider using '%lld' in the format string
+C:\Users\Dajana\OneDrive\Desktop\ikp FINALL\ikp-projekat\common\structures.cpp(112,11): message : consider using '%Id' in the format string
+C:\Users\Dajana\OneDrive\Desktop\ikp FINALL\ikp-projekat\common\structures.cpp(112,11): message : consider using '%I64d' in the format string
+C:\Users\Dajana\OneDrive\Desktop\ikp FINALL\ikp-projekat\common\structures.cpp(115,11): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'SOCKET'
+C:\Users\Dajana\OneDrive\Desktop\ikp FINALL\ikp-projekat\common\structures.cpp(115,11): message : consider using '%lld' in the format string
+C:\Users\Dajana\OneDrive\Desktop\ikp FINALL\ikp-projekat\common\structures.cpp(115,11): message : consider using '%Id' in the format string
+C:\Users\Dajana\OneDrive\Desktop\ikp FINALL\ikp-projekat\common\structures.cpp(115,11): message : consider using '%I64d' in the format string
+C:\Users\Dajana\OneDrive\Desktop\ikp FINALL\ikp-projekat\common\structures.cpp(393,11): warning C4477: 'printf' : format string '%s' requires an argument of type 'char *', but variadic argument 1 has type 'SOCKET'
+  Generating Code...
+  common.vcxproj -> C:\Users\Dajana\OneDrive\Desktop\ikp FINALL\ikp-projekat\x64\Debug\common.lib

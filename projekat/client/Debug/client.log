@@ -1,0 +1,3 @@
+﻿  Client.cpp
+D:\VII SEMESTAR\industrijski komunikacioni protokoli u ees\projekat\group-communication\client\Client.cpp(33,7): warning C4101: 'dataBuffer': unreferenced local variable
+  client.vcxproj -> D:\VII SEMESTAR\industrijski komunikacioni protokoli u ees\projekat\group-communication\Debug\client.exe
